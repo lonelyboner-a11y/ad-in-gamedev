@@ -78,4 +78,5 @@
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
 **BigDigital Team: Denisov | Fadeev | Panov**
